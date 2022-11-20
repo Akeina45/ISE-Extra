@@ -3,8 +3,9 @@
 This is some extra extensive feature that can be implented in the SimiLabs project. 
 
 Keep in mind:
-  This code only works with word documents
-  A existing folder with word documents is needed.
+
+  - This code only works with word documents
+  - A existing folder with word documents is needed.
   
 What does it do?
 
