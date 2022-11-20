@@ -12,3 +12,4 @@ What does it do?
   - Creates a folder within the corpus with all the documents converted to a txt file.
   - Creates a folder for the model that is used to calculate the similarities.
   - Add the suspected document to the corpus.
+  - Calculate the similarity of suspected document to the whole corpus.
